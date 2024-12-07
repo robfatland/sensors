@@ -1,22 +1,24 @@
-# Introduction to the **ocean** GitHub repository
+# sensors
 
-This [repository](https://github.com/robfatland/ocean) is a collection of Python Jupyter notebooks and supporting data. 
-It is a learning resource for expanding on sensor data visualization in oceanography. There are two
-driving emphases: Good dataset construction, and comparison of data from different types of sensors.
-The latter is herein referred to as a 'synoptic view' of the water column.
-
-
-Click the following link -- it may take a few minutes to initialize -- to create a *'binder'* sandbox version
-of this repository. Once the binder environment appears in your browser, double-click
-the **BioOptics** Jupyter notebook to view its contents. Additional work may be found in the **`Notebooks`** sub-folder.
-You may experiment as you like with the binder contents as the environment is temporary.
+This [repository](https://github.com/robfatland/sensors) is repurposed (2024) to ***sensors*** from its
+original purpose of oceanographic data science. The objective now is to provide clear explanations
+of sensors and to support construction of good datasets from these sensors. 
 
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/robfatland/ocean/HEAD)
+- [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/robfatland/sensors/HEAD)
 
 
-To work from a copy of this repository: Establish a stable Jupyter notebook server environment 
-and use `git clone`. 
+- To work on a clone of this repository
+    - Establish a stable Jupyter notebook server environment
+    - `git clone https://github.com/robfatland/sensor`
+    - run notebooks and be prepared to install packages as needed (`xarray`, `matplotlib` and so on)
+
+
+# 2024 rebuild left off here
+
+- das
+- sp
+- und so weiter
 
 
 The work here centers on **shallow profilers** located in the
